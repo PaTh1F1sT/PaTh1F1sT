@@ -1,0 +1,13 @@
+body { background-color: #53cfc6 }
+h2 {
+        width: 200px;
+        text-align: center;
+        color: blue ;
+        border: 3px solid #560694;
+        border-radius: 15px;
+        background-color: gray;
+}
+h5 {
+        font-family: sans-serif;
+        margin: 10px 
+}
